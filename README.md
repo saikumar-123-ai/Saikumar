@@ -88,7 +88,7 @@ src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-ma
      ========================= -->
 <h3 align="left">Support:</h3>
 <p align="center">
-  <a href="PASTE_ANY_SUPPORT_LINK_OR_REMOVE_THIS_SECTION" target="_blank">
+  <a href="https://vidyadheesha.online/" target="_blank">
     <img
       src="https://img.shields.io/badge/💖%20Support%20My%20Work-87ceeb?style=for-the-badge"
       alt="Support"
