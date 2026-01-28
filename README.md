@@ -47,7 +47,7 @@ src="https://www.websitedesignjoburg.co.za/wp-content/uploads/2024/12/digital-ma
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="[PASTE_YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sai-kumar-b7055a293/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sai-kumar-b7055a293/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     height="30" width="40" />
   </a>
